@@ -10,7 +10,7 @@ class A {
 }
          friend string add(A, B);
 };
-
+//pds lab ku laam github use panra
 class B {
     private:
        string str;
